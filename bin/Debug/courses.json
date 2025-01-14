@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Mathematics",
+    "Credits": 3,
+    "Instructor": {
+      "Id": 1,
+      "Name": "Dr. Alice"
+    },
+    "EnrolledStudents": [
+      {
+        "Id": 1,
+        "Name": "John Doe"
+      },
+      {
+        "Id": 2,
+        "Name": "Jane Smith"
+      }
+    ]
+  }
+]
